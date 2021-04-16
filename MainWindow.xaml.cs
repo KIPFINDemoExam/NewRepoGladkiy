@@ -22,6 +22,7 @@ namespace WpfAppGladkiy
     {
         public MainWindow()
         {
+            // abvc
             InitializeComponent();
         }
     }
